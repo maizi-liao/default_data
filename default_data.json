@@ -38064,6 +38064,17 @@
             ],
             "user_name": "renhao",
             "emails": ["renhao@beyondcent.com", "rh1457509849@163.com"]
+        },
+        {
+            "launchpad_id": "liaomaizi",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liaomaizi",
+            "emails": ["maizi.liao@canonical.com"]
         }
     ],
     "companies": [
